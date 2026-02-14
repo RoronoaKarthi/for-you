@@ -76,50 +76,50 @@ export default function Memories() {
   const displayMemories = (memories && memories.length > 0) ? memories : [
     {
       id: 1,
-      url: "/15.jpeg",
+      url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
       type: "image",
-      caption: "The way your pose",
+      caption: "The way you smile",
       date: "Always",
       rotation: -2
     },
     {
       id: 2,
-      url: "/4.jpeg",
+      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
       type: "image",
-      caption: "un side paarva iruke ppppa😘",
-      date: "Always",
+      caption: "Beautiful moments",
+      date: "Spring 2023",
       rotation: 3
     },
     {
       id: 3,
-      url: "/6.jpeg",
+      url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
       type: "image",
-      caption: "Un iduppum thaa😋",
+      caption: "Never letting go",
       date: "Forever",
       rotation: -4
     },
     {
       id: 4,
-      url: "/9.jpeg",
+      url: "https://images.unsplash.com/photo-1518199266791-5375a83190b7?w=800&q=80",
       type: "image",
-      caption: "Mutta Kanni",
-      date: "Always",
+      caption: "Chasing sunsets",
+      date: "Summer Vacation",
       rotation: 2
     },
     {
       id: 5,
-      url: "/11.jpeg",
+      url: "https://images.unsplash.com/photo-1529333166437-7750a6dd5a70?w=800&q=80",
       type: "image",
-      caption: "bby sleeveless la podaatha dii ",
-      date: "but enakku mattum anuppu",
+      caption: "Surprises",
+      date: "Your Birthday",
       rotation: 5
     },
     {
       id: 6,
-      url: "/13.jpeg",
+      url: "https://images.unsplash.com/photo-1516589178581-6cd7833ae3b2?w=800&q=80",
       type: "image",
-      caption: "Saree",
-      date: "Aiyyo💕",
+      caption: "Coffee dates",
+      date: "Every Weekend",
       rotation: -3
     }
   ];

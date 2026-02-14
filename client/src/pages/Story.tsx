@@ -219,23 +219,23 @@ export default function Story() {
   const sortedStory = [
     {
       id: 1,
-      title: "Our First Meet Di maami!!",
-      content: "Adiye thango namma 1st meet pannathu nyabagam irukka sm la oru stranger ah unakku good morning msg pota but ippo paathiya gm, love you,😘 ipdi develope aagirichu palaiya memories ah yosikka nalla irukku dii .",
-      imageUrl: "/2.jpeg",
+      title: "The First Glance",
+      content: "From the moment our eyes met, I knew there was something extraordinary about you. Time seemed to stand still, and in that instant, everything changed.",
+      imageUrl: "https://images.unsplash.com/photo-1627964464837-6328f5931576?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y291cGxlc3xlbnwwfHwwfHx8MA%3D%3D",
       order: 1
     },
     {
       id: 2,
-      title: "First Love",
-      content: "ennoda first love um nee tha last love um nee tha neeyum apditha sollanum un first love um naantha last um naantha sariya un past ah yosikaatha un present ah paaru unakku oru present(gift)ah naa iruken la.",
-      imageUrl: "/1.jpeg",
+      title: "Growing Closer",
+      content: "Every conversation, every shared laugh, every quiet moment together brought us closer. I found myself looking forward to seeing you, thinking about you constantly.",
+      imageUrl: "https://images.unsplash.com/photo-1501901609772-df0848060b33?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Y291cGxlc3xlbnwwfHwwfHx8MA%3D%3D",
       order: 2
     },
     {
       id: 3,
       title: "Falling Deeper",
-      content: "nee enna yappo love panna aarambicha nu therila but naa nee pandra kutty kutty visayatha paathutha love panna nee sm la yallaartaiyum pesrathu nadanthukrathu ipdi all enakku unna romba pudikkum dii ammu unakkum apdi thaanu theriyum namma love ah yaaraachum judge pandruvaanga nu online love nu marachitom la.",
-      imageUrl: "/3.jpeg",
+      content: "Somewhere along the way, friendship blossomed into something more. My heart would race at the sound of your voice, and your smile became my favorite sight.",
+      imageUrl: "https://images.unsplash.com/photo-1555689070-b25ef81cc3ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fGNvdXBsZXN8ZW58MHx8MHx8fDA%3D",
       order: 3
     },
   ];

@@ -57,8 +57,8 @@ export default function Surprise() {
     })();
   };
 
-  const surpriseText = "Baby neethandi yenakku kedacha periya gift nee illaama naa illa!";
-  const text = "Papa unna naa verukanum nu kanavula kooda nenachathilla di";
+  const surpriseText = "You are the best gift I could ever ask for. Get ready for a special dinner tonight!";
+  const text = "Or replace this with your actual surprise coupon/message";
 
   return (
     <div className="min-h-screen flex items-center justify-center p-4 relative overflow-hidden bg-gradient-to-br from-rose-50 via-pink-50 to-purple-50">

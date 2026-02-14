@@ -14,7 +14,7 @@ interface AudioContextType {
 
 const AudioContext = createContext<AudioContextType | null>(null);
 
-const DEFAULT_AUDIO_SRC = "/Neerparavai - Para Para BGM.mp3";
+const DEFAULT_AUDIO_SRC = "/Dooron_Dooron.webm";
 
 export function AudioProvider({ children }: { children: ReactNode }) {
   const audioRef = useRef<HTMLAudioElement | null>(null);

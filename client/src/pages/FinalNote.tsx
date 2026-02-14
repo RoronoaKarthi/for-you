@@ -67,7 +67,7 @@ export default function FinalNote() {
     window.scrollTo({ top: 0, behavior: "instant" });
   }, []);
 
-  const fullText = "chellakutty en last breath irukravara unna kadhalippendii ammu mmmmwahhh😘😘😘.";
+  const fullText = "Loving you is not something I do—it's who I am. In every breath, every silence, every tomorrow, it's you. Happy Valentine's Day to the one my heart chose long before I ever understood love.";
 
   // Optimized typing effect
   useEffect(() => {
@@ -154,7 +154,7 @@ export default function FinalNote() {
               </motion.div>
 
               <h1 className="font-handwriting text-2xl sm:text-3xl md:text-4xl text-transparent bg-clip-text bg-gradient-to-r from-amber-700 via-rose-600 to-pink-600">
-                My Dearest {name || "Ambujam"}
+                My Dearest {name || "Love"}
               </h1>
 
               <div className="flex items-center justify-center gap-2">
